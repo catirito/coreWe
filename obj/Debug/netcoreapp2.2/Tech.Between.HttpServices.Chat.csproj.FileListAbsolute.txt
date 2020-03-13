@@ -1,0 +1,14 @@
+C:\Users\bdgreco\Desktop\Tech.Between.We\Tech.Between.HttpServices.Chat\bin\Debug\netcoreapp2.2\Tech.Between.HttpServices.Chat.deps.json
+C:\Users\bdgreco\Desktop\Tech.Between.We\Tech.Between.HttpServices.Chat\bin\Debug\netcoreapp2.2\Tech.Between.HttpServices.Chat.runtimeconfig.json
+C:\Users\bdgreco\Desktop\Tech.Between.We\Tech.Between.HttpServices.Chat\bin\Debug\netcoreapp2.2\Tech.Between.HttpServices.Chat.runtimeconfig.dev.json
+C:\Users\bdgreco\Desktop\Tech.Between.We\Tech.Between.HttpServices.Chat\bin\Debug\netcoreapp2.2\Tech.Between.HttpServices.Chat.dll
+C:\Users\bdgreco\Desktop\Tech.Between.We\Tech.Between.HttpServices.Chat\obj\Debug\netcoreapp2.2\Tech.Between.HttpServices.Chat.csprojAssemblyReference.cache
+C:\Users\bdgreco\Desktop\Tech.Between.We\Tech.Between.HttpServices.Chat\obj\Debug\netcoreapp2.2\Tech.Between.HttpServices.Chat.csproj.CoreCompileInputs.cache
+C:\Users\bdgreco\Desktop\Tech.Between.We\Tech.Between.HttpServices.Chat\obj\Debug\netcoreapp2.2\Tech.Between.HttpServices.Chat.RazorAssemblyInfo.cache
+C:\Users\bdgreco\Desktop\Tech.Between.We\Tech.Between.HttpServices.Chat\obj\Debug\netcoreapp2.2\Tech.Between.HttpServices.Chat.RazorAssemblyInfo.cs
+C:\Users\bdgreco\Desktop\Tech.Between.We\Tech.Between.HttpServices.Chat\obj\Debug\netcoreapp2.2\Tech.Between.HttpServices.Chat.AssemblyInfoInputs.cache
+C:\Users\bdgreco\Desktop\Tech.Between.We\Tech.Between.HttpServices.Chat\obj\Debug\netcoreapp2.2\Tech.Between.HttpServices.Chat.AssemblyInfo.cs
+C:\Users\bdgreco\Desktop\Tech.Between.We\Tech.Between.HttpServices.Chat\obj\Debug\netcoreapp2.2\Tech.Between.HttpServices.Chat.RazorTargetAssemblyInfo.cache
+C:\Users\bdgreco\Desktop\Tech.Between.We\Tech.Between.HttpServices.Chat\bin\Debug\netcoreapp2.2\Tech.Between.HttpServices.Chat.pdb
+C:\Users\bdgreco\Desktop\Tech.Between.We\Tech.Between.HttpServices.Chat\obj\Debug\netcoreapp2.2\Tech.Between.HttpServices.Chat.dll
+C:\Users\bdgreco\Desktop\Tech.Between.We\Tech.Between.HttpServices.Chat\obj\Debug\netcoreapp2.2\Tech.Between.HttpServices.Chat.pdb
