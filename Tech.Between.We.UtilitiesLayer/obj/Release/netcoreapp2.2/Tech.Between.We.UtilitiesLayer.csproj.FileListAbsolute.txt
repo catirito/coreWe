@@ -1,0 +1,9 @@
+C:\Projects\Cursos\2019\Between\V2\Tech.Between.We\Tech.Between.We.UtilitiesLayer\bin\Release\netcoreapp2.2\Tech.Between.We.UtilitiesLayer.deps.json
+C:\Projects\Cursos\2019\Between\V2\Tech.Between.We\Tech.Between.We.UtilitiesLayer\bin\Release\netcoreapp2.2\Tech.Between.We.UtilitiesLayer.dll
+C:\Projects\Cursos\2019\Between\V2\Tech.Between.We\Tech.Between.We.UtilitiesLayer\bin\Release\netcoreapp2.2\Tech.Between.We.UtilitiesLayer.pdb
+C:\Projects\Cursos\2019\Between\V2\Tech.Between.We\Tech.Between.We.UtilitiesLayer\obj\Release\netcoreapp2.2\Tech.Between.We.UtilitiesLayer.csprojAssemblyReference.cache
+C:\Projects\Cursos\2019\Between\V2\Tech.Between.We\Tech.Between.We.UtilitiesLayer\obj\Release\netcoreapp2.2\Tech.Between.We.UtilitiesLayer.csproj.CoreCompileInputs.cache
+C:\Projects\Cursos\2019\Between\V2\Tech.Between.We\Tech.Between.We.UtilitiesLayer\obj\Release\netcoreapp2.2\Tech.Between.We.UtilitiesLayer.AssemblyInfoInputs.cache
+C:\Projects\Cursos\2019\Between\V2\Tech.Between.We\Tech.Between.We.UtilitiesLayer\obj\Release\netcoreapp2.2\Tech.Between.We.UtilitiesLayer.AssemblyInfo.cs
+C:\Projects\Cursos\2019\Between\V2\Tech.Between.We\Tech.Between.We.UtilitiesLayer\obj\Release\netcoreapp2.2\Tech.Between.We.UtilitiesLayer.dll
+C:\Projects\Cursos\2019\Between\V2\Tech.Between.We\Tech.Between.We.UtilitiesLayer\obj\Release\netcoreapp2.2\Tech.Between.We.UtilitiesLayer.pdb
