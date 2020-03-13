@@ -1,0 +1,17 @@
+C:\Projects\Cursos\2019\Between\V2\Tech.Between.We\Tech.Between.We.EntitiesLayer\bin\Debug\netcoreapp2.2\Tech.Between.We.EntitiesLayer.deps.json
+C:\Projects\Cursos\2019\Between\V2\Tech.Between.We\Tech.Between.We.EntitiesLayer\bin\Debug\netcoreapp2.2\Tech.Between.We.EntitiesLayer.dll
+C:\Projects\Cursos\2019\Between\V2\Tech.Between.We\Tech.Between.We.EntitiesLayer\bin\Debug\netcoreapp2.2\Tech.Between.We.EntitiesLayer.pdb
+C:\Projects\Cursos\2019\Between\V2\Tech.Between.We\Tech.Between.We.EntitiesLayer\obj\Debug\netcoreapp2.2\Tech.Between.We.EntitiesLayer.csprojAssemblyReference.cache
+C:\Projects\Cursos\2019\Between\V2\Tech.Between.We\Tech.Between.We.EntitiesLayer\obj\Debug\netcoreapp2.2\Tech.Between.We.EntitiesLayer.csproj.CoreCompileInputs.cache
+C:\Projects\Cursos\2019\Between\V2\Tech.Between.We\Tech.Between.We.EntitiesLayer\obj\Debug\netcoreapp2.2\Tech.Between.We.EntitiesLayer.AssemblyInfoInputs.cache
+C:\Projects\Cursos\2019\Between\V2\Tech.Between.We\Tech.Between.We.EntitiesLayer\obj\Debug\netcoreapp2.2\Tech.Between.We.EntitiesLayer.AssemblyInfo.cs
+C:\Projects\Cursos\2019\Between\V2\Tech.Between.We\Tech.Between.We.EntitiesLayer\obj\Debug\netcoreapp2.2\Tech.Between.We.EntitiesLayer.dll
+C:\Projects\Cursos\2019\Between\V2\Tech.Between.We\Tech.Between.We.EntitiesLayer\obj\Debug\netcoreapp2.2\Tech.Between.We.EntitiesLayer.pdb
+C:\Users\bdgreco\Desktop\Tech.Between.We\Tech.Between.We.EntitiesLayer\bin\Debug\netcoreapp2.2\Tech.Between.We.EntitiesLayer.deps.json
+C:\Users\bdgreco\Desktop\Tech.Between.We\Tech.Between.We.EntitiesLayer\bin\Debug\netcoreapp2.2\Tech.Between.We.EntitiesLayer.dll
+C:\Users\bdgreco\Desktop\Tech.Between.We\Tech.Between.We.EntitiesLayer\bin\Debug\netcoreapp2.2\Tech.Between.We.EntitiesLayer.pdb
+C:\Users\bdgreco\Desktop\Tech.Between.We\Tech.Between.We.EntitiesLayer\obj\Debug\netcoreapp2.2\Tech.Between.We.EntitiesLayer.csproj.CoreCompileInputs.cache
+C:\Users\bdgreco\Desktop\Tech.Between.We\Tech.Between.We.EntitiesLayer\obj\Debug\netcoreapp2.2\Tech.Between.We.EntitiesLayer.AssemblyInfoInputs.cache
+C:\Users\bdgreco\Desktop\Tech.Between.We\Tech.Between.We.EntitiesLayer\obj\Debug\netcoreapp2.2\Tech.Between.We.EntitiesLayer.AssemblyInfo.cs
+C:\Users\bdgreco\Desktop\Tech.Between.We\Tech.Between.We.EntitiesLayer\obj\Debug\netcoreapp2.2\Tech.Between.We.EntitiesLayer.dll
+C:\Users\bdgreco\Desktop\Tech.Between.We\Tech.Between.We.EntitiesLayer\obj\Debug\netcoreapp2.2\Tech.Between.We.EntitiesLayer.pdb
